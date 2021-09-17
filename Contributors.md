@@ -10,6 +10,7 @@
 - [Mohamed Amine Waray] (https://github.com/WarayAmine)
 - [Rodrigo]
 - Daniel
+- [Davin Chang](https://github.com/davinchang12)
 - [adriancf-br] (https://github.com/adriancf-br)
 - [gunthine] (https://github.com/gunthine)
 - [Sielik] (https://github.com/Sielik)
