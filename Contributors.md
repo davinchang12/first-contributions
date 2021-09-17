@@ -21372,3 +21372,4 @@ rehan
 - [Leonardo Rochedo](https://github.com/Learnir)
 - [Dave Winters] (https://github.com/cetaus)
 - [Alex Magill] (https://github.com/alexmagill)
+- [Davin Chang] (https://github.com/davinchang12)
